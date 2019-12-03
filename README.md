@@ -16,9 +16,9 @@ you can make a maze by editing text file here >>((inside Maze\\Assets\\Input\\wa
 I have no idea 
 
 ## Running the tests
-i used gizmoes to show maze so enable gizmoes in game window .\
+i used gizmoes to show maze so enable gizmoes in game window .
 
-select one of use input or make maze options and run it simple enough :wink:	 ;)\
-you can change scripts properties for example:\
-mouse.sc has timebtwupdateds field : decreese it to make it faster\
+select one of use input or make maze options and run it simple enough :wink:	 ;)
+you can change scripts properties for example:  
+mouse.sc has timebtwupdateds field : decreese it to make it faster.
 
