@@ -1,7 +1,10 @@
-# Project Title
+# Maze-DFS
 
-**university project**\
-Maze with stupid maze generator and DFS algorithem with unity.
+![maze](https://user-images.githubusercontent.com/52382093/190151980-70f524dd-a1b8-4a20-9f3f-9c229522877c.gif)
+
+**university project** 
+maze generator and DFS algorithem with unity.  
+generator is not that great  
 
 # Use
 
